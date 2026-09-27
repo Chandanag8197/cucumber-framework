@@ -7,7 +7,7 @@ import chandanlearnings.pageObjects.PageObjectManager;
 public class testContext {
 
 
-    public WebDriver driver;
+    public WebDriver driver; // webdriver initilazation
     public String landingPageProductName;
     public String offerPageProductName;
     public PageObjectManager pageObjectManager;
